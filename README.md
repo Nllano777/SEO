@@ -27,7 +27,7 @@ Refactor existing code as a challenge.
 
 ## Link 
 
-https://github.com/Nllano777/SEO
+https://nllano777.github.io/SEO/
 
 ---
 
